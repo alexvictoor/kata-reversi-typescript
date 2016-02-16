@@ -1,16 +1,17 @@
 # kata-reversi-typescript
 
-The goal here is to implement a typescript implementation of the [reversi kata](http://codingdojo.org/cgi-bin/index.pl?KataReversi)  
+The goal here is to implement a typescript implementation of the [reversi kata](http://codingdojo.org/cgi-bin/index.pl?KataReversi)
 
 ## Prerequisites
 You need typescript installed:
 
-    npm install typescript -g  
+    npm install typescript -g
 
 You also need tsd:
 
-    npm install tsd -g  
-To test your installation you can run "npm test". This repository includes a complex number implementation alon with unit tests as an example.  
+    npm install tsd -g
+    tsd reinstall
+To test your installation you can run "npm test". This repository includes a complex number implementation alon with unit tests as an example.
 
 **Note:** if you have installed Typescript with Visual Studio, you might have a very old version of typescript on your path. To know which version of typescript is installed on your box just type the followning command:
 
